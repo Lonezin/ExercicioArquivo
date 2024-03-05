@@ -1,0 +1,14 @@
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\bin\Debug\net8.0\Atividade Arquivo.exe
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\bin\Debug\net8.0\Atividade Arquivo.deps.json
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\bin\Debug\net8.0\Atividade Arquivo.runtimeconfig.json
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\bin\Debug\net8.0\Atividade Arquivo.dll
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\bin\Debug\net8.0\Atividade Arquivo.pdb
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.AssemblyInfo.cs
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.dll
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\refint\Atividade Arquivo.dll
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.pdb
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\Atividade Arquivo.genruntimeconfig.cache
+C:\Users\lonez\Desktop\Garoto de programa\Atividade Arquivo\obj\Debug\net8.0\ref\Atividade Arquivo.dll
